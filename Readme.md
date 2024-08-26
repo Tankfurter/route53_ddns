@@ -19,3 +19,14 @@ This script automatically updates AWS Route 53 DNS records with your current pub
 
 1. Clone this repository
 2. Schedule the script to run periodically using a cron job or other scheduling tool
+
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+
+## Badges
+
+![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)
+![Python version](https://img.shields.io/badge/python-3.6%2B-blue)
+![AWS Route 53](https://img.shields.io/badge/AWS-Route%2053-orange)
