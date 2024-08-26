@@ -19,6 +19,7 @@ This script automatically updates AWS Route 53 DNS records with your current pub
 
 1. Clone this repository
 2. Schedule the script to run periodically using a cron job or other scheduling tool
+3. Install Boto3 library using `pip install boto3`
 
 ## Configuration
 
